@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: e9025da1-2adc-4c0e-00c2-783d87667055
 ---
@@ -71,7 +74,7 @@ Here is a list of possible topics. In some cases, either Prof. Liu or Prof. Raja
 10.  Levinson's theorem - how the scattering phase shift is related to the number of bound states in a potential.
 11.  The shell model of nuclear structure.
 12.  The properties of the deuteron.
-13.  The α-decay of 238 U.
+13.  The α-decay of {{< sup "238" >}} U.
 14.  The rotational and vibrational spectrum of diatomic molecules.
 15.  Dynamical SO(3) × SO(3) symmetry of the hydrogen atom.
 16.  Dynamical SU(n) symmetry of the harmonic oscillator in n-dimensions.
