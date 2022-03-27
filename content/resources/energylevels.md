@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e9025da1-2adc-4c0e-00c2-783d87667055
 resourcetype: Document
 title: Energy Levels
 uid: b52625fc-7e9d-7bbc-f006-28008b2c58f0

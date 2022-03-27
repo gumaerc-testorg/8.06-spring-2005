@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 20b37804-0965-8aa8-7a45-492400363116
 resourcetype: Document
 title: Quantum Physics III (8.06) Spring 2005 Outline
 uid: 4509d277-96bc-ae9c-b514-f31cad6b41a6

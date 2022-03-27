@@ -185,13 +185,13 @@ We strongly urge people who are new at LaTeX to communicate with classmates. Lik
 Sample Papers
 -------------
 
-8.06 Sample Term Paper ([PDF]({{< baseurl >}}/resources/samplepaper))
+8.06 Sample Term Paper ([PDF]({{< baseurl >}}/resources/samplepaper-1))
 
 Supporting Files
 ----------------
 
-BoxedEPS ([TEX](/courses/physics/8-06-quantum-physics-iii-spring-2005/projects/BoxedEPS.tex))
+BoxedEPS ([TEX]({{< baseurl >}}/resources/boxedeps))
 
-Sample Paper ([TEX](/courses/physics/8-06-quantum-physics-iii-spring-2005/projects/SamplePaper.tex))
+Sample Paper ([TEX]({{< baseurl >}}/resources/samplepaper))
 
 Energy Levels ([PDF]({{< baseurl >}}/resources/energylevels))
