@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A latex template macro used to incorporate encapsulated postscript figures.
-file: /media/courses/8-06-quantum-physics-iii-spring-2005/0fbc9f7609c087f0a816d7e65599f510_BoxedEPS.tex
+file: /courses/8-06-quantum-physics-iii-spring-2005/0fbc9f7609c087f0a816d7e65599f510_BoxedEPS.tex
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Other
 title: BoxedEPS
 uid: 0fbc9f76-09c0-87f0-a816-d7e65599f510
 ---
+A latex template macro used to incorporate encapsulated postscript figures.
+

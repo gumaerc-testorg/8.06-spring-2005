@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on course topics, meeting
+  times, texts, prerequisites, grading, problem sets, and the term paper.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 20b37804-0965-8aa8-7a45-492400363116
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -26,7 +32,7 @@ Topics Covered
 *   Time-dependent Perturbation Theory
 *   Quantum Computing
 
-Topics covered, in detail ([PDF]({{< baseurl >}}/resources/calendar))
+Topics covered, in detail ({{% resource_link 4509d277-96bc-ae9c-b514-f31cad6b41a6 "PDF" %}})
 
 Texts
 -----
@@ -111,6 +117,6 @@ Problem sets are a very important part of 8.06. We believe that sitting down you
 Term Paper
 ----------
 
-Everyone in 8.06 will be expected to research, write and "publish" a short paper on a topic related to the content of 8.05 or 8.06. The paper can explain a physical effect or further explicate ideas or problems covered in the courses. It can be based on the student's own calculations and/or library research. The paper should be written in the style and format of a brief journal article and should aim at an audience of 8.06 students. Writing, editing, revising and "publishing" skills are an integral part of the project, which is described in full in the [projects]({{< baseurl >}}/pages/projects) section.
+Everyone in 8.06 will be expected to research, write and "publish" a short paper on a topic related to the content of 8.05 or 8.06. The paper can explain a physical effect or further explicate ideas or problems covered in the courses. It can be based on the student's own calculations and/or library research. The paper should be written in the style and format of a brief journal article and should aim at an audience of 8.06 students. Writing, editing, revising and "publishing" skills are an integral part of the project, which is described in full in the {{% resource_link e9025da1-2adc-4c0e-00c2-783d87667055 "projects" %}} section.
 
 Because 8.06 is a CI-M ([Communication Intensive in the Major](http://web.mit.edu/commreq/background.html)) Subject, in order to pass 8.06 you must obtain a grade of C or better on your term paper. If you do not succeed in this, you will get a grade of Incomplete until you revise your term paper sufficiently to earn at least a C, and only at that time you will be assigned a final grade based on the breakdown given above.

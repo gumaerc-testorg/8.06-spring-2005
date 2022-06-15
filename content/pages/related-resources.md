@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides links to experiments related to the course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: a5b3bb64-fbaf-308b-64af-0957cddad027
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Some Topics have a related experiment in the class _8.13-8.14: Experimental Physics I & II "Junior Lab,"_ which is usually taken concurrently with Quantum Physics III.
