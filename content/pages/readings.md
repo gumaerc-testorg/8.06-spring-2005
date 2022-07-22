@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course texts and lists the reading
+  assignments for each of the nine topics covered in this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 43617a07-d844-ac5d-ea66-72d824b3016e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Texts
@@ -15,7 +24,7 @@ Sakurai, J. J. _Modern Quantum Mechanics_. Reading, MA: Addison-Wesley Pub., 199
 
 Shankar, Ramamurti. _Principles of Quantum Mechanics_. 2nd ed. New York, NY: Plenum Press, 1994. ISBN: 9780306447907.
 
-The following table lists the reading assignments for each of the nine topics covered in this course. For more detailed information on these reading assigments, please see the individual assignments in the [assignments]({{< baseurl >}}/pages/assignments) section.
+The following table lists the reading assignments for each of the nine topics covered in this course. For more detailed information on these reading assigments, please see the individual assignments in the {{% resource_link 1f3f9318-a2a3-961b-9631-e30a0ce813a1 "assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
