@@ -8,6 +8,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/6398d8b3d4cb206d214e7cb8a1da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on quantum physics. Problem set on the Feynman­-Hellmann theorem, energy shift due to finite nuclear size, weak­-field Zeeman effect, Stark effect for n = 3 states of hydrogen, and Van der Waals interaction between two "toy­-model atoms."
-

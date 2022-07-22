@@ -8,6 +8,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/fab0ea8dcec32517f757f75e7e02
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on quantum physics. Problems include: cgs units for mechanical and electromagnetic quantities, electromagnetic energy density, momentum density and energy flux, magnetic moments, the bag pressure, quantum gravity, and eigenstates of the "translation" operator.
-

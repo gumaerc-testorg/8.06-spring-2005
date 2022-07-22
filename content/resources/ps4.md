@@ -8,6 +8,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/f4b67d0386ae336fe56340e82d50
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on quantum physics. Problem include: off-­diagonal conductance in two­-dimensions, quantum states in crossed constant electric fields and constant magnetic fields, the Aharonov-­Bohm effect on energy eigenvalues, and perturbation of the three­-dimensional harmonic occillator.
-

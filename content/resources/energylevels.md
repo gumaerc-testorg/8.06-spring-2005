@@ -5,6 +5,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/b52625fc7e9d7bbcf00628008b2c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file showing energy levels in reflectionless potentials.
-

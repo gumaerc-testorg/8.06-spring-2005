@@ -8,6 +8,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/83cd18d5b63d7f4decd7175f7ec3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on quantum physics. Problems include: a time-dependent two-state system, excitation of a hydrogen atom, decay of the three dimensional harmonic oscillator, lifetime of excited states of hydrogen, a wave front crossing a bound particle, and the Grover algorithm.
-

@@ -5,6 +5,7 @@ description: This course outline provides a detailed description of the topics c
 file: /courses/8-06-quantum-physics-iii-spring-2005/4509d27796bcae9cb514f31cad6b41a6_calendar.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This course outline provides a detailed description of the topics covered in the course.
-

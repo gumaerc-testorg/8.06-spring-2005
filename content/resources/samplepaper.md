@@ -6,6 +6,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/bf86cc8aad3679c72227f8705ed8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Sample term paper on algebraic methods to find the eigenenergies and eigenstates of reflectionless potentials in one dimension.
-

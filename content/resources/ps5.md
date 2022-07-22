@@ -8,6 +8,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2005/5ab0baf6ba8177bcaa26bf870168
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on quantum physics. Problem include: The fractional quantum Hall effect, a delta-function bump in the center of an infinite square well, a delta-function interaction between two bosons in an infinite square well, anharmonic oscillator, polarizability of a particle on a ring, and the ethane molecule.
-
