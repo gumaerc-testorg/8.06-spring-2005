@@ -34,8 +34,10 @@
     "website": "8-06-quantum-physics-iii-spring-2005"
   },
   "learning_resource_types": [
-    "Projects"
+    "Projects",
+    "Problem Sets"
   ],
-  "site_uid": "c35f6070-480f-4520-9f3f-f3061299a5de",
+  "site_uid": "9e5861fa-60c3-4b25-8113-32f746eeec46",
+  "site_short_id": "8.06-spring-2005",
   "title": "Course Metadata"
 }
