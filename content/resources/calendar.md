@@ -3,6 +3,7 @@ content_type: resource
 description: This course outline provides a detailed description of the topics covered
   in the course.
 file: /courses/8-06-quantum-physics-iii-spring-2005/4509d27796bcae9cb514f31cad6b41a6_calendar.pdf
+file_size: 66501
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

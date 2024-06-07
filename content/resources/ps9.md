@@ -5,6 +5,7 @@ description: 'Problem set on quantum physics. Problem include: scattering from a
   from Yukawa and Coulomb potentials, the Born approximation in one dimension, the
   size of nuclei, and electron scattering.'
 file: /courses/8-06-quantum-physics-iii-spring-2005/0d61bc00811074b3c4c2ef99bd63ea40_ps9.pdf
+file_size: 167602
 file_type: application/pdf
 learning_resource_types:
 - Assignments

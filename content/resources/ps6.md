@@ -5,6 +5,7 @@ description: "Problem set on quantum physics. Problem set on the Feynman\xAD-Hel
   \ Stark effect for n = 3 states of hydrogen, and Van der Waals interaction between\
   \ two \"toy\xAD-model atoms.\""
 file: /courses/8-06-quantum-physics-iii-spring-2005/6398d8b3d4cb206d214e7cb8a1da107c_ps6.pdf
+file_size: 112115
 file_type: application/pdf
 learning_resource_types:
 - Assignments
