@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Sample paper on algebraic methods to find the eigenenergies and eigenstates
   of reflectionless potentials in one dimension.  '
-file: /courses/8-06-quantum-physics-iii-spring-2005/3bf0bdedf9ca44de808b66251351dd9b_SamplePaper.tex
+file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2005/3bf0bdedf9ca44de808b66251351dd9b_SamplePaper.tex
 file_size: 19316
 file_type: text/plain
 learning_resource_types:
