@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on quantum physics. Problems include variational bound on
   the ground state in an exponential potential, several proofs constructed via the
   variational method, the hydrogen molecular ion, and tunneling and the Stark effect.
-file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2005/c6c398c4ed806495624142ebf8293486_ps7.pdf
+file: /courses/8-06-quantum-physics-iii-spring-2005/c6c398c4ed806495624142ebf8293486_ps7.pdf
 file_size: 144819
 file_type: application/pdf
 learning_resource_types:

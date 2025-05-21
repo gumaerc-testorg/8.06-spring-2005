@@ -4,7 +4,7 @@ description: 'Problem set on quantum physics. Problem include: The fractional qu
   Hall effect, a delta-function bump in the center of an infinite square well, a delta-function
   interaction between two bosons in an infinite square well, anharmonic oscillator,
   polarizability of a particle on a ring, and the ethane molecule.'
-file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2005/5ab0baf6ba8177bcaa26bf870168aa13_ps5.pdf
+file: /courses/8-06-quantum-physics-iii-spring-2005/5ab0baf6ba8177bcaa26bf870168aa13_ps5.pdf
 file_size: 112148
 file_type: application/pdf
 learning_resource_types:
