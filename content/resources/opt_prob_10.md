@@ -4,7 +4,7 @@ description: 'Problem set on quantum physics. Problems include: a time-dependent
   system, excitation of a hydrogen atom, decay of the three dimensional harmonic oscillator,
   lifetime of excited states of hydrogen, a wave front crossing a bound particle,
   and the Grover algorithm.'
-file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2005/83cd18d5b63d7f4decd7175f7ec3f45b_opt_prob_10.pdf
+file: /courses/8-06-quantum-physics-iii-spring-2005/83cd18d5b63d7f4decd7175f7ec3f45b_opt_prob_10.pdf
 file_size: 135286
 file_type: application/pdf
 learning_resource_types:

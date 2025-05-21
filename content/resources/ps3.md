@@ -4,7 +4,7 @@ description: "Problem set on quantum physics. Problem include: gauge invariance 
   \ the Schr\xF6dinger equation, electromagnetic current density in quantum mechanics,\
   \ translation invariance in a uniform magnetic field, and counting the states in\
   \ a Landau level."
-file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2005/64402aa9654a3fa53468ad0763095abb_ps3.pdf
+file: /courses/8-06-quantum-physics-iii-spring-2005/64402aa9654a3fa53468ad0763095abb_ps3.pdf
 file_size: 146223
 file_type: application/pdf
 learning_resource_types:
